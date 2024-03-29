@@ -148,7 +148,9 @@ border: 1px solid #cce7d0;
 border-radius: 4px;
 margin: 15px 0;
 }
-
+.image{
+    width: 100%;
+}
 #feature .fet-box:hover{
     box-shadow: 20px 20px 34px rgb(0, 0, 0)
 }
