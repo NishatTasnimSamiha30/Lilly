@@ -155,7 +155,9 @@ margin: 15px 0;
     box-shadow: 10px 10px 54px rgb(0, 0, 0)
 }
 
-
+#feature .fet-box h6{
+    padding: 9px 8px 6px 8px; 
+}
 
 
 
