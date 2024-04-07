@@ -149,13 +149,20 @@ border-radius: 4px;
 margin: 15px 0;
 }
 .image{
-    width: 100%;
+    
 }
 #feature .fet-box:hover{
     box-shadow: 10px 10px 40px rgb(17, 17, 17)
 }
 
+#feature .fet-box img{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+
 #feature .fet-box h6{
+    display: inline-block;
     padding: 9px 8px 6px 8px; 
     line-height: 1;
     border-radius: 4px;
